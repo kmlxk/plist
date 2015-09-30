@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.98.65.133:2195/kmcfapp/wap_btn_xz.png</string>
+					<string>https://raw.githubusercontent.com/kmlxk/plist/master/icons/Icon-72@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://10.98.65.133:2195/kmcfapp/wap_btn_xz.png</string>
+					<string>https://raw.githubusercontent.com/kmlxk/plist/master/icons/Icon-72.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
